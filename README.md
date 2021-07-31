@@ -10,3 +10,4 @@ To prepare for data visualization, we used Excel to combine multiple files and c
 
 ### 3. Data Visualization (Tableau)
 Please visit my [tableau public](https://public.tableau.com/app/profile/uyen.huynh4317/viz/US_diabetes/US_diabates) to see the charts. 
+![review](https://github.com/uyenhnp/diabetes_us_adults/blob/master/diabetes_review.gif)
